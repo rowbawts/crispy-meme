@@ -1,0 +1,3 @@
+/var/home/seby/Projects/Git/tmp/cmake-build-debug/CMakeFiles/tmp.dir
+/var/home/seby/Projects/Git/tmp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/var/home/seby/Projects/Git/tmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
