@@ -1,0 +1,3 @@
+/var/home/seby/Projects/Git/crispy-meme/cmake-build-debug/CMakeFiles/crispy_meme.dir
+/var/home/seby/Projects/Git/crispy-meme/cmake-build-debug/CMakeFiles/edit_cache.dir
+/var/home/seby/Projects/Git/crispy-meme/cmake-build-debug/CMakeFiles/rebuild_cache.dir
